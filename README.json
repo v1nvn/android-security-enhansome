@@ -178,7 +178,7 @@
             "last_commit": "2023-05-19T10:01:03Z",
             "owner": "google",
             "repo": "android-classyshark",
-            "stars": 7597
+            "stars": 7598
           }
         },
         {
@@ -214,7 +214,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-23T10:20:12Z",
+            "last_commit": "2026-03-26T17:42:28Z",
             "owner": "ev-flow",
             "repo": "quark-engine",
             "stars": 1652
@@ -230,7 +230,7 @@
             "last_commit": "2021-01-19T06:11:07Z",
             "owner": "muellerberndt",
             "repo": "apkx",
-            "stars": 291
+            "stars": 290
           }
         },
         {
@@ -243,7 +243,7 @@
             "last_commit": "2025-08-20T21:55:15Z",
             "owner": "dwisiswant0",
             "repo": "apkleaks",
-            "stars": 6011
+            "stars": 6010
           }
         },
         {
@@ -253,7 +253,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-03-04T22:52:25Z",
+            "last_commit": "2026-03-26T17:31:05Z",
             "owner": "mpast",
             "repo": "mobileAudit",
             "stars": 224
@@ -266,7 +266,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-03-25T17:17:46Z",
+            "last_commit": "2026-03-26T22:56:11Z",
             "owner": "detekt",
             "repo": "detekt",
             "stars": 6891
@@ -384,7 +384,7 @@
             "last_commit": "2021-06-03T05:20:20Z",
             "owner": "nccgroup",
             "repo": "house",
-            "stars": 1460
+            "stars": 1461
           }
         },
         {
@@ -394,10 +394,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-03-23T08:46:06Z",
+            "last_commit": "2026-03-26T16:13:22Z",
             "owner": "MobSF",
             "repo": "Mobile-Security-Framework-MobSF",
-            "stars": 20694
+            "stars": 20704
           }
         },
         {
@@ -423,7 +423,7 @@
             "last_commit": "2026-01-29T20:58:24Z",
             "owner": "ReversecLabs",
             "repo": "drozer",
-            "stars": 4486
+            "stars": 4487
           }
         },
         {
@@ -656,7 +656,7 @@
             "last_commit": "2026-03-18T21:07:53Z",
             "owner": "m0bilesecurity",
             "repo": "RMS-Runtime-Mobile-Security",
-            "stars": 2989
+            "stars": 2990
           }
         },
         {
@@ -700,7 +700,7 @@
             "last_commit": "2026-03-20T17:27:41Z",
             "owner": "fkie-cad",
             "repo": "friTap",
-            "stars": 476
+            "stars": 477
           }
         },
         {
@@ -713,7 +713,7 @@
             "last_commit": "2025-12-07T12:17:58Z",
             "owner": "RaffaDNDM",
             "repo": "HacknDroid",
-            "stars": 140
+            "stars": 141
           }
         },
         {
@@ -824,7 +824,7 @@
             "last_commit": "2024-01-17T22:59:22Z",
             "owner": "JesusFreke",
             "repo": "smali",
-            "stars": 6614
+            "stars": 6616
           }
         },
         {
@@ -868,7 +868,7 @@
             "last_commit": "2026-01-12T08:13:52Z",
             "owner": "androguard",
             "repo": "androguard",
-            "stars": 6010
+            "stars": 6012
           }
         },
         {
@@ -925,7 +925,7 @@
             "last_commit": "2024-07-21T06:08:25Z",
             "owner": "pxb1988",
             "repo": "dex2jar",
-            "stars": 13099
+            "stars": 13100
           }
         },
         {
@@ -1005,7 +1005,7 @@
             "last_commit": "2024-07-08T18:45:59Z",
             "owner": "java-decompiler",
             "repo": "jd-gui",
-            "stars": 15056
+            "stars": 15059
           }
         },
         {
@@ -1023,7 +1023,7 @@
             "last_commit": "2025-06-02T03:57:13Z",
             "owner": "Storyyeller",
             "repo": "Krakatau",
-            "stars": 2191
+            "stars": 2192
           }
         },
         {
@@ -1075,7 +1075,7 @@
             "last_commit": "2026-01-07T04:07:00Z",
             "owner": "Konloch",
             "repo": "bytecode-viewer",
-            "stars": 15459
+            "stars": 15460
           }
         },
         {
@@ -1085,10 +1085,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-03-25T17:52:32Z",
+            "last_commit": "2026-03-26T23:48:40Z",
             "owner": "radareorg",
             "repo": "radare2",
-            "stars": 23314
+            "stars": 23321
           }
         },
         {
@@ -1101,7 +1101,7 @@
             "last_commit": "2026-03-24T20:56:16Z",
             "owner": "skylot",
             "repo": "jadx",
-            "stars": 47789
+            "stars": 47804
           }
         },
         {
@@ -1127,7 +1127,7 @@
             "last_commit": "2020-03-14T23:19:02Z",
             "owner": "secrary",
             "repo": "Andromeda",
-            "stars": 711
+            "stars": 710
           }
         },
         {
@@ -1140,7 +1140,7 @@
             "last_commit": "2024-07-24T18:34:52Z",
             "owner": "niklashigi",
             "repo": "apk-mitm",
-            "stars": 4948
+            "stars": 4949
           }
         },
         {
@@ -1189,10 +1189,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-26T00:36:43Z",
+            "last_commit": "2026-03-26T18:25:40Z",
             "owner": "mvt-project",
             "repo": "mvt",
-            "stars": 12242
+            "stars": 12246
           }
         },
         {
@@ -1231,7 +1231,7 @@
             "last_commit": "2026-03-21T19:00:36Z",
             "owner": "AzeemIdrisi",
             "repo": "PhoneSploit-Pro",
-            "stars": 5682
+            "stars": 5684
           }
         },
         {
@@ -1298,7 +1298,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-01-06T04:20:15Z",
+            "last_commit": "2026-03-26T21:55:52Z",
             "owner": "google",
             "repo": "honggfuzz",
             "stars": 3315
@@ -1494,7 +1494,7 @@
             "last_commit": "2026-03-24T06:18:51Z",
             "owner": "mitmproxy",
             "repo": "mitmproxy",
-            "stars": 42799
+            "stars": 42815
           }
         },
         {
@@ -1546,7 +1546,7 @@
             "last_commit": "2024-08-21T15:45:36Z",
             "owner": "seemoo-lab",
             "repo": "internalblue",
-            "stars": 768
+            "stars": 769
           }
         },
         {
@@ -1595,7 +1595,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-03-24T15:21:01Z",
+            "last_commit": "2026-03-26T12:27:35Z",
             "owner": "R0rt1z2",
             "repo": "kaeru",
             "stars": 202
@@ -1663,7 +1663,7 @@
             "last_commit": "2023-05-19T21:04:24Z",
             "owner": "payatu",
             "repo": "diva-android",
-            "stars": 1093
+            "stars": 1094
           }
         },
         {
@@ -1767,7 +1767,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-25T12:02:18Z",
+            "last_commit": "2026-03-26T14:36:48Z",
             "owner": "OWASP",
             "repo": "mastg",
             "stars": 12794
@@ -1809,7 +1809,7 @@
             "last_commit": "2024-02-08T14:18:04Z",
             "owner": "tanprathan",
             "repo": "MobileApp-Pentest-Cheatsheet",
-            "stars": 5178
+            "stars": 5179
           }
         },
         {
@@ -1842,7 +1842,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-26T04:34:33.171Z",
+    "last_updated": "2026-03-27T04:35:26.665Z",
     "original_repository": "ashishb/android-security-awesome",
     "source_repository": "v1nvn/android-security-enhansome",
     "source_repository_description": null,
