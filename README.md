@@ -1,11 +1,11 @@
 # android-security-awesome ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-[![Link Liveness Checker](https://github.com/ashishb/android-security-awesome/actions/workflows/validate-links.yml/badge.svg)](https://github.com/ashishb/android-security-awesome/actions/workflows/validate-links.yml) ⭐ 9,309 | 🐛 0 | 🌐 Makefile | 📅 2026-03-25
+[![Link Liveness Checker](https://github.com/ashishb/android-security-awesome/actions/workflows/validate-links.yml/badge.svg)](https://github.com/ashishb/android-security-awesome/actions/workflows/validate-links.yml) ⭐ 9,307 | 🐛 0 | 🌐 Makefile | 📅 2026-03-25
 
-[![Lint Shell scripts](https://github.com/ashishb/android-security-awesome/actions/workflows/lint-shell-script.yaml/badge.svg)](https://github.com/ashishb/android-security-awesome/actions/workflows/lint-shell-script.yaml) ⭐ 9,309 | 🐛 0 | 🌐 Makefile | 📅 2026-03-25
-[![Lint Markdown](https://github.com/ashishb/android-security-awesome/actions/workflows/lint-markdown.yaml/badge.svg)](https://github.com/ashishb/android-security-awesome/actions/workflows/lint-markdown.yaml) ⭐ 9,309 | 🐛 0 | 🌐 Makefile | 📅 2026-03-25
-[![Lint YAML](https://github.com/ashishb/android-security-awesome/actions/workflows/lint-yaml.yaml/badge.svg)](https://github.com/ashishb/android-security-awesome/actions/workflows/lint-yaml.yaml) ⭐ 9,309 | 🐛 0 | 🌐 Makefile | 📅 2026-03-25
-[![Lint GitHub Actions](https://github.com/ashishb/android-security-awesome/actions/workflows/lint-github-actions.yaml/badge.svg)](https://github.com/ashishb/android-security-awesome/actions/workflows/lint-github-actions.yaml) ⭐ 9,309 | 🐛 0 | 🌐 Makefile | 📅 2026-03-25
+[![Lint Shell scripts](https://github.com/ashishb/android-security-awesome/actions/workflows/lint-shell-script.yaml/badge.svg)](https://github.com/ashishb/android-security-awesome/actions/workflows/lint-shell-script.yaml) ⭐ 9,307 | 🐛 0 | 🌐 Makefile | 📅 2026-03-25
+[![Lint Markdown](https://github.com/ashishb/android-security-awesome/actions/workflows/lint-markdown.yaml/badge.svg)](https://github.com/ashishb/android-security-awesome/actions/workflows/lint-markdown.yaml) ⭐ 9,307 | 🐛 0 | 🌐 Makefile | 📅 2026-03-25
+[![Lint YAML](https://github.com/ashishb/android-security-awesome/actions/workflows/lint-yaml.yaml/badge.svg)](https://github.com/ashishb/android-security-awesome/actions/workflows/lint-yaml.yaml) ⭐ 9,307 | 🐛 0 | 🌐 Makefile | 📅 2026-03-25
+[![Lint GitHub Actions](https://github.com/ashishb/android-security-awesome/actions/workflows/lint-github-actions.yaml/badge.svg)](https://github.com/ashishb/android-security-awesome/actions/workflows/lint-github-actions.yaml) ⭐ 9,307 | 🐛 0 | 🌐 Makefile | 📅 2026-03-25
 ![GitHub contributors](https://img.shields.io/github/contributors/ashishb/android-security-awesome)
 
 A collection of Android security-related resources.
@@ -58,9 +58,9 @@ A collection of Android security-related resources.
 ### Static Analysis Tools
 
 1. [ClassyShark](https://github.com/google/android-classyshark) ⚠️ Archived - A Standalone binary inspection tool that can browse any Android executable and show important info.
-2. [Detekt](https://github.com/detekt/detekt) ⭐ 6,891 | 🐛 242 | 🌐 Kotlin | 📅 2026-03-26 - Static code analysis for Kotlin
-3. [APKLeaks](https://github.com/dwisiswant0/apkleaks) ⭐ 6,010 | 🐛 25 | 🌐 Python | 📅 2025-08-20 - Scanning APK file for URIs, endpoints & secrets.
-4. [Quark-Engine](https://github.com/quark-engine/quark-engine) ⭐ 1,652 | 🐛 76 | 🌐 Python | 📅 2026-03-26 - An Obfuscation-Neglect Android Malware Scoring System
+2. [Detekt](https://github.com/detekt/detekt) ⭐ 6,892 | 🐛 230 | 🌐 Kotlin | 📅 2026-03-27 - Static code analysis for Kotlin
+3. [APKLeaks](https://github.com/dwisiswant0/apkleaks) ⭐ 6,013 | 🐛 25 | 🌐 Python | 📅 2025-08-20 - Scanning APK file for URIs, endpoints & secrets.
+4. [Quark-Engine](https://github.com/quark-engine/quark-engine) ⭐ 1,652 | 🐛 75 | 🌐 Python | 📅 2026-03-27 - An Obfuscation-Neglect Android Malware Scoring System
 5. [ApkAnalyser](https://github.com/sonyxperiadev/ApkAnalyser) ⭐ 1,046 | 🐛 6 | 🌐 Java | 📅 2023-07-13
 6. [StaCoAn](https://github.com/vincentcox/StaCoAn) ⭐ 869 | 🐛 10 | 🌐 JavaScript | 📅 2021-04-27 - Cross-platform tool that aids developers, bug-bounty hunters, and ethical hackers in performing static code analysis on mobile applications. This tool was created with a big focus on usability and graphical guidance in the user interface.
 7. [APKInspector](https://github.com/honeynet/apkinspector/) ⭐ 853 | 🐛 15 | 🌐 Java | 📅 2013-02-25
@@ -95,20 +95,20 @@ A collection of Android security-related resources.
 
 ### Dynamic Analysis Tools
 
-1. [Mobile-Security-Framework MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) ⭐ 20,704 | 🐛 22 | 🌐 JavaScript | 📅 2026-03-26 - Mobile Security Framework is an intelligent, all-in-one open-source mobile application (Android/iOS) automated pen-testing framework capable of performing static, dynamic analysis, and web API testing.
-2. [Drozer](https://github.com/mwrlabs/drozer) ⭐ 4,487 | 🐛 9 | 🌐 Python | 📅 2026-01-29
-3. [Runtime Mobile Security (RMS)](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) ⭐ 2,990 | 🐛 8 | 🌐 JavaScript | 📅 2026-03-18 - is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime
+1. [Mobile-Security-Framework MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) ⭐ 20,707 | 🐛 22 | 🌐 JavaScript | 📅 2026-03-26 - Mobile Security Framework is an intelligent, all-in-one open-source mobile application (Android/iOS) automated pen-testing framework capable of performing static, dynamic analysis, and web API testing.
+2. [Drozer](https://github.com/mwrlabs/drozer) ⭐ 4,487 | 🐛 7 | 🌐 Python | 📅 2026-03-27
+3. [Runtime Mobile Security (RMS)](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) ⭐ 2,989 | 🐛 9 | 🌐 JavaScript | 📅 2026-03-18 - is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime
 4. [Inspeckage](https://github.com/ac-pm/Inspeckage) ⭐ 2,962 | 🐛 98 | 🌐 Java | 📅 2020-09-22 - Android Package Inspector - dynamic analysis with API hooks, start unexported activities, and more. (Xposed Module)
-5. [Brida](https://github.com/federicodotta/Brida) ⭐ 1,860 | 🐛 11 | 🌐 Java | 📅 2025-10-30 - Burp Suite extension that, working as a bridge between Burp and Frida, lets you use and manipulate the applications' own methods while tampering with the traffic exchanged between the applications and their back-end services/servers.
+5. [Brida](https://github.com/federicodotta/Brida) ⭐ 1,861 | 🐛 11 | 🌐 Java | 📅 2025-10-30 - Burp Suite extension that, working as a bridge between Burp and Frida, lets you use and manipulate the applications' own methods while tampering with the traffic exchanged between the applications and their back-end services/servers.
 6. [Andriller](https://github.com/den4uk/andriller) ⭐ 1,538 | 🐛 11 | 🌐 Python | 📅 2022-06-27 - software utility with a collection of forensic tools for smartphones. It performs read-only, forensically sound, non-destructive acquisition from Android devices.
 7. [House](https://github.com/nccgroup/house) ⭐ 1,461 | 🐛 16 | 🌐 JavaScript | 📅 2021-06-03- House: A runtime mobile application analysis toolkit with a Web GUI, powered by Frida, written in Python.
 8. [Androl4b](https://github.com/sh4hin/Androl4b) ⭐ 1,157 | 🐛 5 | 📅 2023-05-31- A Virtual Machine For Assessing Android applications, Reverse Engineering and Malware Analysis
 9. [adbsploit](https://github.com/mesquidar/adbsploit) ⚠️ Archived - tools for exploiting device via ADB
-10. [DECAF](https://github.com/sycurelab/DECAF) ⭐ 838 | 🐛 37 | 🌐 C | 📅 2024-11-19 - Dynamic Executable Code Analysis Framework based on QEMU (DroidScope is now an extension to DECAF)
-11. [Droidbox](https://github.com/pjlantz/droidbox) ⭐ 797 | 🐛 32 | 🌐 Python | 📅 2023-06-22
+10. [DECAF](https://github.com/sycurelab/DECAF) ⭐ 837 | 🐛 37 | 🌐 C | 📅 2024-11-19 - Dynamic Executable Code Analysis Framework based on QEMU (DroidScope is now an extension to DECAF)
+11. [Droidbox](https://github.com/pjlantz/droidbox) ⭐ 798 | 🐛 32 | 🌐 Python | 📅 2023-06-22
 12. [MARA](https://github.com/xtiankisutsa/MARA_Framework) ⭐ 671 | 🐛 3 | 🌐 Python | 📅 2019-07-26 - Mobile Application Reverse Engineering and Analysis Framework
 13. [CuckooDroid](https://github.com/idanr1986/cuckoo-droid) ⭐ 604 | 🐛 71 | 🌐 Python | 📅 2020-11-07 - Android extension for Cuckoo sandbox
-14. [friTap](https://github.com/fkie-cad/friTap) ⭐ 477 | 🐛 7 | 🌐 JavaScript | 📅 2026-03-20- Intercept SSL/TLS connections with Frida; Allows TLS key extraction and decryption of TLS payload as PCAP on Android in real-time.
+14. [friTap](https://github.com/fkie-cad/friTap) ⭐ 479 | 🐛 7 | 🌐 JavaScript | 📅 2026-03-20- Intercept SSL/TLS connections with Frida; Allows TLS key extraction and decryption of TLS payload as PCAP on Android in real-time.
 15. [Android Hooker](https://github.com/AndroidHooker/hooker) ⚠️ Archived - Dynamic Java code instrumentation (requires the Substrate Framework)
 16. [AndroPyTool](https://github.com/alexMyG/AndroPyTool) ⭐ 380 | 🐛 26 | 🌐 Python | 📅 2022-12-07 - a tool for extracting static and dynamic features from Android APKs. It combines different well-known Android app analysis tools such as DroidBox, FlowDroid, Strace, AndroGuard, and VirusTotal analysis.
 17. [Android Malware Sandbox](https://github.com/Areizen/Android-Malware-Sandbox) ⭐ 304 | 🐛 7 | 🌐 JavaScript | 📅 2025-02-06
@@ -142,19 +142,19 @@ A collection of Android security-related resources.
 
 ### Reverse Engineering
 
-1. [Jadx](https://github.com/skylot/jadx) ⭐ 47,804 | 🐛 417 | 🌐 Java | 📅 2026-03-24
-2. [Radare2](https://github.com/radare/radare2) ⭐ 23,321 | 🐛 827 | 🌐 C | 📅 2026-03-26
+1. [Jadx](https://github.com/skylot/jadx) ⭐ 47,820 | 🐛 415 | 🌐 Java | 📅 2026-03-27
+2. [Radare2](https://github.com/radare/radare2) ⭐ 23,325 | 🐛 825 | 🌐 C | 📅 2026-03-27
 3. [Bytecode viewer](https://github.com/Konloch/bytecode-viewer) ⭐ 15,460 | 🐛 100 | 🌐 Java | 📅 2026-01-07
-4. [JD-GUI](https://github.com/java-decompiler/jd-gui) ⭐ 15,059 | 🐛 245 | 🌐 Java | 📅 2024-07-08 - Java decompiler
-5. [Dex2Jar](https://github.com/pxb1988/dex2jar) ⭐ 13,100 | 🐛 379 | 🌐 Java | 📅 2024-07-21 - dex to jar converter
-6. [MVT (Mobile Verification Toolkit)](https://github.com/mvt-project/mvt) ⭐ 12,246 | 🐛 63 | 🌐 Python | 📅 2026-03-26 - a collection of utilities to simplify and automate the process of gathering forensic traces helpful to identify a potential compromise of Android and iOS devices
+4. [JD-GUI](https://github.com/java-decompiler/jd-gui) ⭐ 15,060 | 🐛 245 | 🌐 Java | 📅 2024-07-08 - Java decompiler
+5. [Dex2Jar](https://github.com/pxb1988/dex2jar) ⭐ 13,102 | 🐛 379 | 🌐 Java | 📅 2024-07-21 - dex to jar converter
+6. [MVT (Mobile Verification Toolkit)](https://github.com/mvt-project/mvt) ⭐ 12,247 | 🐛 63 | 🌐 Python | 📅 2026-03-26 - a collection of utilities to simplify and automate the process of gathering forensic traces helpful to identify a potential compromise of Android and iOS devices
 7. [Smali/Baksmali](https://github.com/JesusFreke/smali) ⭐ 6,616 | 🐛 144 | 🌐 Java | 📅 2024-01-17 – apk decompilation
-8. [Androguard](https://github.com/androguard/androguard) ⭐ 6,012 | 🐛 44 | 🌐 Python | 📅 2026-01-12 – powerful, integrates well with other tools
-9. [PhoneSpolit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro) ⭐ 5,684 | 🐛 12 | 🌐 Python | 📅 2026-03-21 - An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit Framework to get a Meterpreter session.
+8. [Androguard](https://github.com/androguard/androguard) ⭐ 6,014 | 🐛 44 | 🌐 Python | 📅 2026-01-12 – powerful, integrates well with other tools
+9. [PhoneSpolit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro) ⭐ 5,685 | 🐛 12 | 🌐 Python | 📅 2026-03-21 - An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit Framework to get a Meterpreter session.
 10. [apk-mitm](https://github.com/shroudedcode/apk-mitm) ⭐ 4,949 | 🐛 76 | 🌐 TypeScript | 📅 2024-07-24 - A CLI application that prepares Android APK files for HTTPS inspection
 11. [Simplify Android deobfuscator](https://github.com/CalebFenton/simplify) ⭐ 4,638 | 🐛 32 | 🌐 Java | 📅 2022-04-30
 12. [FernFlower](https://github.com/fesh0r/fernflower) ⭐ 4,214 | 🐛 0 | 🌐 Java | 📅 2026-03-25 - Java decompiler
-13. [APKLab](https://github.com/APKLab/APKLab) ⭐ 3,769 | 🐛 24 | 🌐 TypeScript | 📅 2025-11-11 - plugin for VS code to analyze APKs
+13. [APKLab](https://github.com/APKLab/APKLab) ⭐ 3,770 | 🐛 26 | 🌐 TypeScript | 📅 2025-11-11 - plugin for VS code to analyze APKs
 14. [Enjarify](https://github.com/google/enjarify) ⚠️ Archived - dex to jar converter from Google
 15. [Krakatau](https://github.com/Storyyeller/Krakatau) ⭐ 2,192 | 🐛 26 | 🌐 Rust | 📅 2025-06-02 - Java decompiler
 16. [Dwarf](https://github.com/iGio90/Dwarf) ⭐ 1,313 | 🐛 5 | 🌐 Python | 📅 2024-05-16 - GUI for reverse engineering
@@ -212,7 +212,7 @@ A collection of Android security-related resources.
 
 ### Misc Tools
 
-1. [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 42,815 | 🐛 421 | 🌐 Python | 📅 2026-03-24
+1. [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 42,831 | 🐛 421 | 🌐 Python | 📅 2026-03-24
 2. [AppMon](https://github.com/dpnishant/appmon) ⭐ 1,618 | 🐛 38 | 🌐 JavaScript | 📅 2023-05-01- AppMon is an automated framework for monitoring and tampering with system API calls of native macOS, iOS, and Android apps. It is based on Frida.
 3. [Android Vulnerability Test Suite](https://github.com/AndroidVTS/android-vts) ⭐ 1,029 | 🐛 24 | 🌐 Java | 📅 2019-08-02 - android-vts scans a device for set of vulnerabilities
 4. [sundaysec/Android-Exploits](https://github.com/sundaysec/Android-Exploits) ⭐ 975 | 🐛 4 | 🌐 HTML | 📅 2019-10-08 - A collection of android Exploits and Hacks
@@ -256,7 +256,7 @@ A collection of Android security-related resources.
 
 ### Others
 
-1. [OWASP Mobile Security Testing Guide Manual](https://github.com/OWASP/owasp-mstg) ⭐ 12,794 | 🐛 244 | 🌐 Python | 📅 2026-03-26
+1. [OWASP Mobile Security Testing Guide Manual](https://github.com/OWASP/owasp-mstg) ⭐ 12,797 | 🐛 243 | 🌐 Python | 📅 2026-03-27
 2. [Mobile App Pentest Cheat Sheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) ⭐ 5,179 | 🐛 18 | 📅 2024-02-08
 3. [doridori/Android-Security-Reference](https://github.com/doridori/Android-Security-Reference) ⭐ 982 | 🐛 5 | 📅 2025-03-24
 4. [android app security checklist](https://github.com/b-mueller/android_app_security_checklist) ⭐ 890 | 🐛 6 | 📅 2022-08-27
